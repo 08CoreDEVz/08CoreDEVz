@@ -4,7 +4,7 @@
 <table align="center" border="0">
 
   <tr>
-    <td width="48%" align="left" style="vertical-align: top;">
+    <td width="50%" align="left" style="vertical-align: top;">
       <p>🎓 Academic background: <strong>(education) Undergraduate</strong></p>
       <p>🌱 Currently focused on: <strong>Java Full Stack Development</strong></p>
       <p>🤔 Technologies I use daily: <strong>.html, .css, .js</strong></p>
@@ -13,7 +13,7 @@
       <p>⚡ Personal alias: <strong>nickname</strong> or <strong>nickname</strong></p>
     </td>
 
-  <td width="48%" align="center">
+  <td width="50%" align="center">
       <img align="center" alt="Coding illustration"; " src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
     </td>
   </tr>
