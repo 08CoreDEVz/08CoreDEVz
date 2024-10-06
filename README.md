@@ -1,3 +1,23 @@
+<table align="center" border="0">
+
+  <tr>
+    <td width="48%" align="left" style="vertical-align: top;">
+      <p>🎓 Academic background: <strong>B.Sc. Undergraduate</strong></p>
+      <p>🌱 Currently focused on: <strong>Java Full Stack Development</strong></p>
+      <p>🤔 Technologies I use daily: <strong>.html, .css, .js, .java</strong></p>
+      <p>🧑‍💼 Open to: <strong>Internship opportunities in web development</strong></p>
+      <p>📧 Reach out: <a href="mailto:rupanagudi.sujith2708@gmail.com">rupanagudi.sujith2708@gmail.com</a></p>
+      <p>⚡ Personal alias: <strong>Sujji</strong> or <strong>Reddy</strong></p>
+    </td>
+
+  <td width="48%" align="center">
+      <img align="center" alt="Coding illustration"; " src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+    </td>
+  </tr>
+</table>
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## 🚀 Skills & Technologies
 
 | **Front-End Development** | **Back-End Development** | **Database Technologies** | **Build & Version Control** | **Other Technologies** |
