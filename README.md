@@ -2,12 +2,12 @@
 
   <tr>
     <td width="48%" align="left" style="vertical-align: top;">
-      <p>🎓 Academic background: <strong>B.Sc. Undergraduate</strong></p>
+      <p>🎓 Academic background: <strong>(education) Undergraduate</strong></p>
       <p>🌱 Currently focused on: <strong>Java Full Stack Development</strong></p>
-      <p>🤔 Technologies I use daily: <strong>.html, .css, .js, .java</strong></p>
+      <p>🤔 Technologies I use daily: <strong>.html, .css, .js</strong></p>
       <p>🧑‍💼 Open to: <strong>Internship opportunities in web development</strong></p>
-      <p>📧 Reach out: <a href="mailto:rupanagudi.sujith2708@gmail.com">rupanagudi.sujith2708@gmail.com</a></p>
-      <p>⚡ Personal alias: <strong>Sujji</strong> or <strong>Reddy</strong></p>
+      <p>📧 Reach out: <a href="mailto:08coredev@gmail.com">08coredev@gmail.com</a></p>
+      <p>⚡ Personal alias: <strong>nickname</strong> or <strong>nickname</strong></p>
     </td>
 
   <td width="48%" align="center">
