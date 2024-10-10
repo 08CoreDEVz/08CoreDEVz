@@ -1,4 +1,4 @@
-![CodeByReddy Banner Image](./banner.png)
+![CodeByReddy Banner Image](./banner.gif)
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1 align="center">$${\color{orange}Hi 👋, \space I\space'm \space \space \color{#FFFC00} Sujith \space Kumar \space Reddy \space Rupanagudi}$$
 </h1>
