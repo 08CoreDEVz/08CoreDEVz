@@ -1,8 +1,8 @@
-
+![CodeByReddy Banner Image](./banner.png)
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<h1 align="center">$${\color{orange}Hi 👋, \space I\space'm \space \space \color{orange} Sujith \space Kumar \space Reddy \space Rupanagudi}$$
+<h1 align="center">$${\color{orange}Hi 👋, \space I\space'm \space \space \color{#FFFC00} Sujith \space Kumar \space Reddy \space Rupanagudi}$$
 </h1>
-<h3 align="center">$${\color{yellow}A \space passionate \space Full-Stack \space Developer \space from \space India}$$</h3>
+<h3 align="center">$${\color{#f00a36}A \space passionate \space Full-Stack \space Developer \space from \space India}$$</h3>
 
 
 ## 🤝 Connect with me:
@@ -12,12 +12,12 @@
 <table align="center" border="0">
   <tr>
     <td width="50%" align="left" style="vertical-align: top;">
-      <p>🎓 Academic background: <strong>$${\color{orange}Bachelor \space of \space Science \space [B.Sc] \space MPCs.}$$</strong></p>
-      <p>🌱 Currently focused on: <strong>$${\color{red}Java \space Full \space Stack \space Development.}$$</strong></p>
-      <p>🤔 Technologies I use daily: <strong>$${\color{orange}.html \space \color{lightblue} .css \space \color{yellow} .js}$$</strong></p>
-      <p>🧑‍💼 Open to: <strong>$${\color{green}Internship \space opportunities \space in \space web \space development.}$$</strong></p>
+      <p>🎓 Academic background: <strong>$${\color{#2e9df7}Bachelor \space of \space Science \space [B.Sc] \space MPCs.}$$</strong></p>
+      <p>🌱 Currently focused on: <strong>$${\color{#FF8A00}Java \space Full \space Stack \space Development.}$$</strong></p>
+      <p>🤔 Technologies I use daily: <strong>$${\color{orange}.html \space \color{aqua} .css \space \color{yellow} .js}$$</strong></p>
+      <p>🧑‍💼 Open to: <strong>$${\color{#d64084}Internship \space opportunities \space in \space web \space development.}$$</strong></p>
       <p>📧 Reach out: <a href="mailto:08coredev@gmail.com">08coredev@gmail.com</a></p> 
-      <p>⚡ Personal alias: <strong>$${\color{yellow}Sujji}$$</strong> or <strong>$${\color{lightgreen} Chinnu}$$</strong></p>   
+      <p>⚡ Personal alias: <strong>$${\color{lightgreen}Sujji}$$</strong> or <strong>$${\color{lightgreen} Chinnu}$$</strong></p>   
     </td>
 
   <td width="50%" align="center">
