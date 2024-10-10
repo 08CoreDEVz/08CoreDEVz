@@ -1,16 +1,23 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<h1 align="center">$${\color{orange}Hi 👋, \space I'm \space \space \color{orange} Sujith \space Kumar \space Reddy \space Rupanagudi}$$
+</h1>
+<h3 align="center">$${\color{yellow}A \space passionate \space Full-Stack \space Developer \space from \space India}$$</h3>
+
+
+## 🤝 Connect with me:
+<p align="left">
+</p>
 
 <table align="center" border="0">
-
   <tr>
     <td width="50%" align="left" style="vertical-align: top;">
-      <p>🎓 Academic background: <strong>(education) Undergraduate</strong></p>
-      <p>🌱 Currently focused on: <strong>Java Full Stack Development</strong></p>
-      <p>🤔 Technologies I use daily: <strong>.html, .css, .js</strong></p>
-      <p>🧑‍💼 Open to: <strong>Internship opportunities in web development</strong></p>
-      <p>📧 Reach out: <a href="mailto:08coredev@gmail.com">08coredev@gmail.com</a></p>
-      <p>⚡ Personal alias: <strong>nickname</strong> or <strong>nickname</strong></p>
+      <p>🎓 Academic background: <strong>$${\color{orange}Bachelor \space of \space Science \space [B.Sc] \space MPCs.}$$</strong></p>
+      <p>🌱 Currently focused on: <strong>$${\color{red}Java \space Full \space Stack \space Development.}$$</strong></p>
+      <p>🤔 Technologies I use daily: <strong>$${\color{orange}.html \space \color{lightblue} .css \space \color{yellow} .js}$$</strong></p>
+      <p>🧑‍💼 Open to: <strong>$${\color{green}Internship \space opportunities \space in \space web \space development.}$$</strong></p>
+      <p>📧 Reach out: <a href="mailto:08coredev@gmail.com">08coredev@gmail.com</a></p> 
+      <p>⚡ Personal alias: <strong>$${\color{yellow}Sujji}$$</strong> or <strong>$${\color{lightgreen} Chinnu}$$</strong></p>   
     </td>
 
   <td width="50%" align="center">
@@ -31,3 +38,5 @@
 | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) | ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![JSP & Servlets](https://img.shields.io/badge/JSP%20%26%20Servlets-007396?style=for-the-badge&logo=java&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |  | ![Microsoft Office Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white) |  |  | ![MAGIX Vegas Pro](https://img.shields.io/badge/Vegas_Pro-ACACAC?style=for-the-badge&logo=vegas-pro&logoColor=white) |
+
+
