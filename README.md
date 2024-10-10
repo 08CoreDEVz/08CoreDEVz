@@ -1,8 +1,12 @@
 ![CodeByReddy Banner Image](./banner.gif)
 
-<h3 align="center">$${\color{#f00a36}A \space passionate \space Full-Stack \space Developer \space from \space India}$$</h3>
+<hr>
 
-## 🤝 Connect with me:
+<h3 align="center">$${\color{#f00a36}Tech \space Enthusiast \space and  \space Full \space Stack \space Developer \space | \space Crafting \space Seamless \space Experiences \space for \space Users.}$$</h3>
+
+<hr>
+
+## 📖 About me:
 <p align="left">
 </p>
 
@@ -10,10 +14,10 @@
   <tr>
     <td width="50%" align="left" style="vertical-align: top;">
       <p>🎓 Academic background: <strong>$${\color{#2e9df7}Bachelor \space of \space Science \space [B.Sc] \space MPCs.}$$</strong></p>
-      <p>🌱 Currently focused on: <strong>$${\color{#FF8A00}Java \space Full \space Stack \space Development.}$$</strong></p>
+      <p>🌱 Currently focusing on: <strong>$${\color{#FF8A00} Full \space Stack \space Development.}$$</strong></p>
       <p>🤔 Technologies I use daily: <strong>$${\color{orange}.html \space \color{aqua} .css \space \color{yellow} .js}$$</strong></p>
       <p>🧑‍💼 Open to: <strong>$${\color{#d64084}Internship \space opportunities \space in \space web \space development.}$$</strong></p>
-      <p>📧 Reach out: <a href="mailto:08coredev@gmail.com">08coredev@gmail.com</a></p> 
+      <p>📧 Reach out: <a href="mailto:rupanagudi.sujith2708@gmail.com">rupanagudi.sujith2708@gmail.com</a></p> 
       <p>⚡ Personal alias: <strong>$${\color{lightgreen}Sujji}$$</strong> or <strong>$${\color{lightgreen} Chinnu}$$</strong></p>   
     </td>
 
@@ -23,7 +27,7 @@
   </tr>
 </table>
 
-## 🚀 Skills & Technologies
+## 🛠️ Skills & Technologies
 
 | **Front-End Development** | **Back-End Development** | **Database Technologies** | **Build & Version Control** | **Other Technologies** |
 |---------------------------|--------------------------|---------------------------|-----------------------------|------------------------|
@@ -34,7 +38,7 @@
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![JSP & Servlets](https://img.shields.io/badge/JSP%20%26%20Servlets-007396?style=for-the-badge&logo=java&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |  | ![Microsoft Office Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white) |  |  | ![MAGIX Vegas Pro](https://img.shields.io/badge/Vegas_Pro-ACACAC?style=for-the-badge&logo=vegas-pro&logoColor=white) |
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/sujith-kumar-reddy-rupanagudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujith-kumar-reddy-rupanagudi" height="30" width="40" /></a>
 <a href="https://instagram.com/sujith.reddy.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujith.reddy.102" height="30" width="40" /></a>
