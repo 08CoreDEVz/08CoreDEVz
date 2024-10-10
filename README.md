@@ -1,9 +1,6 @@
 ![CodeByReddy Banner Image](./banner.gif)
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<h1 align="center">$${\color{orange}Hi 👋, \space I\space'm \space \space \color{#FFFC00} Sujith \space Kumar \space Reddy \space Rupanagudi}$$
-</h1>
-<h3 align="center">$${\color{#f00a36}A \space passionate \space Full-Stack \space Developer \space from \space India}$$</h3>
 
+<h3 align="center">$${\color{#f00a36}A \space passionate \space Full-Stack \space Developer \space from \space India}$$</h3>
 
 ## 🤝 Connect with me:
 <p align="left">
@@ -26,8 +23,6 @@
   </tr>
 </table>
 
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
 ## 🚀 Skills & Technologies
 
 | **Front-End Development** | **Back-End Development** | **Database Technologies** | **Build & Version Control** | **Other Technologies** |
@@ -39,4 +34,8 @@
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![JSP & Servlets](https://img.shields.io/badge/JSP%20%26%20Servlets-007396?style=for-the-badge&logo=java&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |  | ![Microsoft Office Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white) |  |  | ![MAGIX Vegas Pro](https://img.shields.io/badge/Vegas_Pro-ACACAC?style=for-the-badge&logo=vegas-pro&logoColor=white) |
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sujith-kumar-reddy-rupanagudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujith-kumar-reddy-rupanagudi" height="30" width="40" /></a>
+<a href="https://instagram.com/sujith.reddy.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujith.reddy.102" height="30" width="40" /></a>
+</p>
