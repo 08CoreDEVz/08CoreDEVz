@@ -1,6 +1,6 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<h1 align="center">$${\color{orange}Hi 👋, \space I'm \space \space \color{orange} Sujith \space Kumar \space Reddy \space Rupanagudi}$$
+<h1 align="center">$${\color{orange}Hi 👋, \space I\space'm \space \space \color{orange} Sujith \space Kumar \space Reddy \space Rupanagudi}$$
 </h1>
 <h3 align="center">$${\color{yellow}A \space passionate \space Full-Stack \space Developer \space from \space India}$$</h3>
 
